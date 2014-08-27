@@ -10,4 +10,4 @@ github_username:  n-kats
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+#highlighter: rouge
