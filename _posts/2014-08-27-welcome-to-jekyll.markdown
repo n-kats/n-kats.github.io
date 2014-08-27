@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyllの導入"
-date:   2014-08-27 12:00:00
+date:   2014-08-27 08:22:29
 categories: jekyll update
 ---
 `_post`ディレクトリに`YYYY-MM-DD-name-of-post.ext`の形式で書く．
