@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyllの導入"
+title:  "Welcome to Jekyll!"
 date:   2014-08-27 08:22:29
 categories: jekyll update
 ---
