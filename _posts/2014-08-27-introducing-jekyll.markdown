@@ -13,7 +13,7 @@ def sample
   puts "sample"
 end
 {% endhighlight %}
-`rouge`をインストール後，`_config.yml`に`highlighter: rouge`と追加すれば，windows環境下でもエラーがでない．test_rouge
+`rouge`をインストール後，`_config.yml`に`highlighter: rouge`と追加すれば，windows環境下でもエラーがでない．しかし，rougeはgithubで使えないようなので，pushするときはコメントアウトしておくこと．
 
 - ドキュメント [Jekyll docs][jekyll]
 - Jekyllレポジトリ [Jekyll's GitHub repo][jekyll-gh]
