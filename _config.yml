@@ -4,7 +4,7 @@ title: n-kats のページ
 description: > # this means to ignore newlines until "baseurl:"
   研究報告用に使う予定のページ
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: n_kats_
 github_username:  n-kats
 
