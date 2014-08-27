@@ -15,9 +15,9 @@ end
 {% endhighlight %}
 `rouge`をインストール後，`_config.yml`に`highlighter: rouge`と追加すれば，windows環境下でもエラーがでない．
 
-  - ドキュメント [Jekyll docs][jekyll]
-  - Jekyllレポジトリ [Jekyll's GitHub repo][jekyll-gh]
-  - ヘルプ [Jekyll's dedicated Help repository][jekyll-help].
+ドキュメント [Jekyll docs][jekyll]
+Jekyllレポジトリ [Jekyll's GitHub repo][jekyll-gh]
+ヘルプ [Jekyll's dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
