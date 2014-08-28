@@ -1,0 +1,9 @@
+---
+layout: post
+title: 自動ポストテスト
+date: 2014-08-28 21:30:49
+categories: jekyll update
+---
+自動投稿のテストです
+
+
