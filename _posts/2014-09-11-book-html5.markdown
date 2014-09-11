@@ -1,0 +1,16 @@
+---
+layout: post
+title: ちょっとhtml5
+date: 2014-09-11 21:53:13
+categories: jekyll update
+---
+## jQuery UI
+
+jQueryUIの勉強をする．名前の通りUIに関するものだけど，ブロックをドラッグ&ドロップしたりなどができる．
+
+けど，twitter bootstrapと被りそうで･･･
+
+使ってみたかったりするけど，bootstrapと併用できないなら悩み物．
+
+## html5
+『HTML5 Web標準API バイブル』を購入．パラパラめくって音声認識をやってみる．webRTCについても書いてあるので期待して読みたい．
