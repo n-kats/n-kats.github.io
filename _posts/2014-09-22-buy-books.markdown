@@ -1,0 +1,11 @@
+---
+layout: post
+title: Thorの続きと本を少々購入
+date: 2014-09-22 20:18:37
+categories: jekyll update
+---
+先日に続けてThorを読んだ後，大学にいったついでに本を購入．
+
+rubykaigiで宣伝されていたHeroku本と，以前から気になっていたコンピュータ将棋についての本
+
+ちょっとしたものを作ってHerokuにあげてみるみたいなことをしてみたい
