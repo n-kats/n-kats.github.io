@@ -1,0 +1,11 @@
+---
+layout: post
+title: socket.ioをしてみる
+date: 2014-10-26 20:41:23
+categories: jekyll update
+---
+Ajaxでしようかと思ったけど，socket.ioでいってみようということで･･･
+
+サーバとの通信はできたけど，CPU使用率がやばいことに･･･どういうことだ？CPU温度がぐわーっと上がる･･･
+
+うまいことangular.jsなどを使って書きたいんだけど･･･
